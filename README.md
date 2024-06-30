@@ -29,6 +29,6 @@ Te: trailers
 Connection: keep-alive
 </pre>
 
-## Sample issue view
+Example vulnerability detection is as follows.
 
 ![image](https://github.com/batuhaniskr/polyfill.io-script-detection/assets/17202632/2d8d1844-73df-4729-bea7-9758c98d7d04)
